@@ -13,7 +13,7 @@ Um aplicativo de lista de tarefas simples e funcional.
 1. Clone o repositório:
 ```bash
 git clone https://github.com/saarrr-alves/todo-list-ebac.git
-cd "todo-list"
+cd todo-list
 ```
 
 2. Instale as dependências:
