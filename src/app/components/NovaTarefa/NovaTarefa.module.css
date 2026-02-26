@@ -1,0 +1,27 @@
+.form {
+    display: flex;
+    width: 50%;
+    margin: 48px auto;
+    gap: 12px;
+    justify-content: center;
+}
+
+.input {
+  flex: 1;
+  padding: 12px;
+  border: 1px solid white;
+  border-radius: 8px;
+  color: var(--text-primary);
+  background-color: var(--background);
+}
+
+.botao {
+  padding: 12px 24px;
+  background-color: var(--button-primary-bg);
+  color: var(--button-primary-text);
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+  font-weight: 500;
+  transition: background-color 0.3s ease;
+}
