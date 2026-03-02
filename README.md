@@ -1,4 +1,3 @@
-
 # To-Do List 2.0
 
 Um aplicativo de lista de tarefas simples e funcional.
@@ -11,12 +10,14 @@ Um aplicativo de lista de tarefas simples e funcional.
 ## Instalação
 
 1. Clone o repositório:
+
 ```bash
 git clone https://github.com/saarrr-alves/todo-list-ebac.git
 cd todo-list
 ```
 
 2. Instale as dependências:
+
 ```bash
 npm install
 ```
@@ -24,6 +25,7 @@ npm install
 ## Execução
 
 Para iniciar a aplicação:
+
 ```bash
 npm run dev
 ```
